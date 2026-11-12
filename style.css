@@ -238,7 +238,7 @@ button:focus-visible { outline: 3px solid var(--blue); outline-offset: 2px; }
   cursor: pointer;
   border-radius: 28px;
   padding: 24px 12px 20px;
-  color: #fff;
+  color: #000;
   font-weight: 900;
   font-size: 18px;
   display: flex;
